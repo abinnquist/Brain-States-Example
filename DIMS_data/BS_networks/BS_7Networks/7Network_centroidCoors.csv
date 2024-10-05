@@ -1,0 +1,52 @@
+﻿ROI Index,Label Name,R,A,S,Label Num,LabName
+1,7Networks_LH_Vis,-10,-80,0,1,Visual
+2,7Networks_LH_SomMot,-40,-18,50,2,Somatomotor
+3,7Networks_LH_DorsAttn_Post,-26,-60,48,3,Dorsal Attention
+4,7Networks_LH_DorsAttn_FEF,-26,-4,54,3,Dorsal Attention
+5,7Networks_LH_DorsAttn_PrCv,-50,4,32,3,Dorsal Attention
+6,7Networks_LH_SalVentAttn_ParOper,-60,-32,28,4,Salience / Ventral Attention
+7,7Networks_LH_SalVentAttn_TempOcc,-58,-56,12,4,Salience / Ventral Attention
+8,7Networks_LH_SalVentAttn_FrOperIns,-42,6,4,4,Salience / Ventral Attention
+9,7Networks_LH_SalVentAttn_PFCl,-30,42,30,4,Salience / Ventral Attention
+10,7Networks_LH_SalVentAttn_Med,-4,4,40,4,Salience / Ventral Attention
+11,7Networks_LH_Limbic_OFC,-12,34,-20,5,Limbic
+12,7Networks_LH_Limbic_TempPole,-34,-2,-38,5,Limbic
+13,7Networks_LH_Cont_Par,-44,-52,48,6,Control
+14,7Networks_LH_Cont_Temp,-60,-50,-16,6,Control
+15,7Networks_LH_Cont_PFCd,-22,14,60,6,Control
+16,7Networks_LH_Cont_PFCl,-40,36,18,6,Control
+17,7Networks_LH_Cont_OFC,-28,44,-14,6,Control
+18,7Networks_LH_Cont_PFCv,-30,22,-4,6,Control
+19,7Networks_LH_Cont_pCun,-4,-70,46,6,Control
+20,7Networks_LH_Cont_Cing,-6,-16,28,6,Control
+21,7Networks_LH_Cont_PFCmp,-4,26,46,6,Control
+22,7Networks_LH_Default_Par,-48,-62,32,7,Default
+23,7Networks_LH_Default_Temp,-58,-18,-14,7,Default
+24,7Networks_LH_Default_PFC,-12,58,24,7,Default
+25,7Networks_LH_Default_pCunPCC,-6,-54,30,7,Default
+26,7Networks_LH_Default_PHC,-22,-30,-20,7,Default
+27,7Networks_RH_Vis,20,-76,-8,1,Visual
+28,7Networks_RH_SomMot,46,-12,42,2,Somatomotor
+29,7Networks_RH_DorsAttn_Post,30,-58,52,3,Dorsal Attention
+30,7Networks_RH_DorsAttn_FEF,28,-4,54,3,Dorsal Attention
+31,7Networks_RH_DorsAttn_PrCv,48,8,28,3,Dorsal Attention
+32,7Networks_RH_SalVentAttn_TempOccPar,62,-30,26,4,Salience / Ventral Attention
+33,7Networks_RH_SalVentAttn_PrC,52,0,48,4,Salience / Ventral Attention
+34,7Networks_RH_SalVentAttn_FrOperIns,42,8,2,4,Salience / Ventral Attention
+35,7Networks_RH_SalVentAttn_PFCv,52,38,2,4,Salience / Ventral Attention
+36,7Networks_RH_SalVentAttn_PFCl,30,46,30,4,Salience / Ventral Attention
+37,7Networks_RH_SalVentAttn_Med,4,8,42,4,Salience / Ventral Attention
+38,7Networks_RH_Limbic_OFC,12,36,-22,5,Limbic
+39,7Networks_RH_Limbic_TempPole,38,-2,-38,5,Limbic
+40,7Networks_RH_Cont_Par,50,-46,48,6,Control
+41,7Networks_RH_Cont_Temp,62,-36,-16,6,Control
+42,7Networks_RH_Cont_PFCv,32,24,-6,6,Control
+43,7Networks_RH_Cont_PFCl,40,34,24,6,Control
+44,7Networks_RH_Cont_pCun,6,-72,44,6,Control
+45,7Networks_RH_Cont_Cing,6,-14,30,6,Control
+46,7Networks_RH_Cont_PFCmp,6,30,40,6,Control
+47,7Networks_RH_Default_Par,52,-56,30,7,Default
+48,7Networks_RH_Default_Temp,58,-10,-18,7,Default
+49,7Networks_RH_Default_PFCv,46,30,-12,7,Default
+50,7Networks_RH_Default_PFCdPFCm,8,52,22,7,Default
+51,7Networks_RH_Default_pCunPCC,8,-54,28,7,Default

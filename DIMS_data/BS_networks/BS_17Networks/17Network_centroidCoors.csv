@@ -1,0 +1,115 @@
+﻿ROI Index,Label Name,R,A,S,Label Num,LabName
+1,17Networks_LH_VisCent_Striate,-8,-98,-8,1,central visual
+2,17Networks_LH_VisCent_ExStr,-32,-88,-6,1,central visual
+3,17Networks_LH_VisPeri_StriCal,-8,-78,6,2,peripheral visual
+4,17Networks_LH_VisPeri_ExStrInf,-14,-58,-4,2,peripheral visual
+5,17Networks_LH_VisPeri_ExStrSup,-8,-82,28,2,peripheral visual
+6,17Networks_LH_SomMotA,-20,-30,68,3,somatomotor A
+7,17Networks_LH_SomMotB_Cent,-52,-10,34,4,somatomotor B
+8,17Networks_LH_SomMotB_S2,-52,-16,16,4,somatomotor B
+9,17Networks_LH_SomMotB_Ins,-32,-22,8,4,somatomotor B
+10,17Networks_LH_SomMotB_Aud,-52,-20,8,4,somatomotor B
+11,17Networks_LH_DorsAttnA_TempOcc,-44,-60,-10,5,dorsal attention A
+12,17Networks_LH_DorsAttnA_ParOcc,-42,-80,20,5,dorsal attention A
+13,17Networks_LH_DorsAttnA_SPL,-22,-68,54,5,dorsal attention A
+14,17Networks_LH_DorsAttnB_TempOcc,-54,-64,8,6,dorsal attention B
+15,17Networks_LH_DorsAttnB_PostC,-40,-40,52,6,dorsal attention B
+16,17Networks_LH_DorsAttnB_FEF,-26,-6,56,6,dorsal attention B
+17,17Networks_LH_DorsAttnB_PrCv,-54,6,38,6,dorsal attention B
+18,17Networks_LH_SalVentAttnA_ParOper,-60,-30,26,7,salience / ventral attention A
+19,17Networks_LH_SalVentAttnA_FrOper,-52,4,6,7,salience / ventral attention A
+20,17Networks_LH_SalVentAttnA_Ins,-38,-2,-4,7,salience / ventral attention A
+21,17Networks_LH_SalVentAttnA_ParMed,-16,-32,42,7,salience / ventral attention A
+22,17Networks_LH_SalVentAttnA_FrMed,-6,4,46,7,salience / ventral attention A
+23,17Networks_LH_SalVentAttnB_IPL,-62,-42,36,8,salience / ventral attention B
+24,17Networks_LH_SalVentAttnB_PFCd,-16,8,66,8,salience / ventral attention B
+25,17Networks_LH_SalVentAttnB_PFCl,-32,44,28,8,salience / ventral attention B
+26,17Networks_LH_SalVentAttnB_Ins,-34,20,0,8,salience / ventral attention B
+27,17Networks_LH_SalVentAttnB_OFC,-28,40,-12,8,salience / ventral attention B
+28,17Networks_LH_SalVentAttnB_PFCmp,-6,24,32,8,salience / ventral attention B
+29,17Networks_LH_LimbicA_TempPole,-34,-4,-38,9,limbic A
+30,17Networks_LH_LimbicB_OFC,-10,36,-20,10,limbic B
+31,17Networks_LH_ContA_Temp,-56,-58,-14,12,control A
+32,17Networks_LH_ContA_IPS,-38,-50,44,12,control A
+33,17Networks_LH_ContA_PFCd,-22,8,54,12,control A
+34,17Networks_LH_ContA_PFCl,-42,12,28,12,control A
+35,17Networks_LH_ContA_PFClv,-44,38,12,12,control A
+36,17Networks_LH_ContA_Cingm,-4,4,28,12,control A
+37,17Networks_LH_ContB_Temp,-60,-38,-14,13,control B
+38,17Networks_LH_ContB_IPL,-48,-54,50,13,control B
+39,17Networks_LH_ContB_PFCd,-30,16,62,13,control B
+40,17Networks_LH_ContB_PFCl,-44,24,40,13,control B
+41,17Networks_LH_ContB_PFClv,-34,56,-2,13,control B
+42,17Networks_LH_ContB_PFCmp,-4,30,46,13,control B
+43,17Networks_LH_ContC_pCun,-6,-68,46,11,control C
+44,17Networks_LH_ContC_Cingp,-6,-26,28,11,control C
+45,17Networks_LH_DefaultA_IPL,-44,-68,38,16,default A
+46,17Networks_LH_DefaultA_PFCd,-22,28,46,16,default A
+47,17Networks_LH_DefaultA_pCunPCC,-6,-52,32,16,default A
+48,17Networks_LH_DefaultA_PFCm,-8,50,4,16,default A
+49,17Networks_LH_DefaultB_Temp,-58,-12,-20,17,default B
+50,17Networks_LH_DefaultB_IPL,-52,-56,28,17,default B
+51,17Networks_LH_DefaultB_PFCd,-8,50,40,17,default B
+52,17Networks_LH_DefaultB_PFCl,-40,14,50,17,default B
+53,17Networks_LH_DefaultB_PFCv,-48,28,-4,17,default B
+54,17Networks_LH_DefaultC_IPL,-42,-78,30,15,default C
+55,17Networks_LH_DefaultC_Rsp,-12,-56,14,15,default C
+56,17Networks_LH_DefaultC_PHC,-26,-32,-18,15,default C
+57,17Networks_LH_TempPar,-58,-42,8,14,temporal parietal
+58,17Networks_RH_VisCent_Striate,12,-96,-2,1,central visual
+59,17Networks_RH_VisCent_ExStr,36,-86,-8,1,central visual
+60,17Networks_RH_VisPeri_StriCal,12,-74,8,2,peripheral visual
+61,17Networks_RH_VisPeri_ExStrInf,16,-56,-4,2,peripheral visual
+62,17Networks_RH_VisPeri_ExStrSup,12,-78,30,2,peripheral visual
+63,17Networks_RH_SomMotA,22,-24,70,3,somatomotor A
+64,17Networks_RH_SomMotB_Cent,56,-6,34,4,somatomotor B
+65,17Networks_RH_SomMotB_S2,50,-10,14,4,somatomotor B
+66,17Networks_RH_SomMotB_Ins,34,-20,8,4,somatomotor B
+67,17Networks_RH_SomMotB_Aud,54,-14,6,4,somatomotor B
+68,17Networks_RH_DorsAttnA_TempOcc,48,-52,-12,5,dorsal attention A
+69,17Networks_RH_DorsAttnA_ParOcc,46,-72,14,5,dorsal attention A
+70,17Networks_RH_DorsAttnA_SPL,24,-64,54,5,dorsal attention A
+71,17Networks_RH_DorsAttnB_TempOcc,58,-60,4,6,dorsal attention B
+72,17Networks_RH_DorsAttnB_PostC,38,-38,58,6,dorsal attention B
+73,17Networks_RH_DorsAttnB_FEF,26,-6,56,6,dorsal attention B
+74,17Networks_RH_DorsAttnB_PrCv,56,10,30,6,dorsal attention B
+75,17Networks_RH_SalVentAttnA_ParOper,60,-28,26,7,salience / ventral attention A
+76,17Networks_RH_SalVentAttnA_PrC,52,0,48,7,salience / ventral attention A
+77,17Networks_RH_SalVentAttnA_FrOper,52,6,4,7,salience / ventral attention A
+78,17Networks_RH_SalVentAttnA_Ins,40,0,-4,7,salience / ventral attention A
+79,17Networks_RH_SalVentAttnA_ParMed,14,-32,44,7,salience / ventral attention A
+80,17Networks_RH_SalVentAttnA_FrMed,6,6,48,7,salience / ventral attention A
+81,17Networks_RH_SalVentAttnB_IPL,62,-38,34,8,salience / ventral attention B
+82,17Networks_RH_SalVentAttnB_PFCd,14,12,68,8,salience / ventral attention B
+83,17Networks_RH_SalVentAttnB_PFCl,32,46,28,8,salience / ventral attention B
+84,17Networks_RH_SalVentAttnB_PFClv,48,44,2,8,salience / ventral attention B
+85,17Networks_RH_SalVentAttnB_Ins,38,24,0,8,salience / ventral attention B
+86,17Networks_RH_SalVentAttnB_PFCmp,8,26,32,8,salience / ventral attention B
+87,17Networks_RH_SalVentAttnB_Cinga,6,16,24,8,salience / ventral attention B
+88,17Networks_RH_LimbicA_TempPole,36,-4,-38,9,limbic A
+89,17Networks_RH_LimbicB_OFC,12,36,-20,10,limbic B
+90,17Networks_RH_ContA_Temp,62,-48,-10,12,control A
+91,17Networks_RH_ContA_IPS,40,-48,44,12,control A
+92,17Networks_RH_ContA_PFCd,26,10,54,12,control A
+93,17Networks_RH_ContA_PFCl,46,22,22,12,control A
+94,17Networks_RH_ContA_Cingm,6,4,30,12,control A
+95,17Networks_RH_ContB_Temp,62,-30,-16,13,control B
+96,17Networks_RH_ContB_IPL,54,-50,48,13,control B
+97,17Networks_RH_ContB_PFCld,42,20,46,13,control B
+98,17Networks_RH_ContB_PFClv,32,56,-4,13,control B
+99,17Networks_RH_ContB_PFCmp,4,34,44,13,control B
+100,17Networks_RH_ContC_pCun,8,-66,46,11,control C
+101,17Networks_RH_ContC_Cingp,8,-26,28,11,control C
+102,17Networks_RH_DefaultA_Temp,62,-6,-18,16,default A
+103,17Networks_RH_DefaultA_IPL,52,-56,28,16,default A
+104,17Networks_RH_DefaultA_PFCd,24,36,44,16,default A
+105,17Networks_RH_DefaultA_pCunPCC,6,-52,30,16,default A
+106,17Networks_RH_DefaultA_PFCm,8,50,6,16,default A
+107,17Networks_RH_DefaultB_Temp,62,-26,-6,17,default B
+108,17Networks_RH_DefaultB_AntTemp,52,6,-30,17,default B
+109,17Networks_RH_DefaultB_PFCd,10,52,40,17,default B
+110,17Networks_RH_DefaultB_PFCv,48,28,-12,17,default B
+111,17Networks_RH_DefaultC_IPL,48,-70,26,15,default C
+112,17Networks_RH_DefaultC_Rsp,14,-54,14,15,default C
+113,17Networks_RH_DefaultC_PHC,26,-28,-20,15,default C
+114,17Networks_RH_TempPar,54,-34,4,14,temporal parietal
